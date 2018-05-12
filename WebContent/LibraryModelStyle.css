@@ -1,1 +1,43 @@
 @charset "ISO-8859-1";
+
+body {
+	background-color: #e6e6e6;
+	font-family: 'Hind', sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+#heading {
+	width: 100%;
+	padding: 10px;
+	margin: -10px;
+	background-color: #b3d9ff;
+}
+
+#heading a {
+	color: black;
+}
+
+#linksbar {
+	padding: 15px;
+	margin-left: -10px;
+	margin-right: -10px;
+	background-color: #0077b3;
+	box-shadow: 0px 4px 7px #888888;
+}
+
+#linksbar a {
+	color: white;
+	padding-right: 5em;
+	font-weight: bold;
+}
+
+#mainpage {
+	margin: auto;
+	padding: 15px;
+	padding-top: 0px;
+	width: 8in;
+	background-color: #ffffff;
+}
